@@ -15,7 +15,7 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Quick Widgets)
 
 # 是否测试QtUtils
 # add_compile_definitions(QT_UTILS_TEST)
-
+# 20250730
 
 set(PROJECT_SOURCES
         main.cpp
